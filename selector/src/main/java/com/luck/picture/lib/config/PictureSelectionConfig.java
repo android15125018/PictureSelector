@@ -334,7 +334,7 @@ public final class PictureSelectionConfig implements Parcelable {
         selectorStyle = new PictureSelectorStyle();
         maxSelectNum = 9;
         minSelectNum = 0;
-        maxVideoSelectNum = 1;
+        maxVideoSelectNum = 9;
         minVideoSelectNum = 0;
         minAudioSelectNum = 0;
         videoQuality = VideoQuality.VIDEO_QUALITY_HIGH;
